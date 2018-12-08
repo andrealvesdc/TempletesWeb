@@ -1,2 +1,2 @@
 # TempletesWeb
-Templetes para serem utilizados em aplições web
+Exemplo de templetes para aplições web
